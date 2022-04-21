@@ -76,8 +76,5 @@
   "dependencies": {
     "deepmerge": "^4.2.2",
     "flatted": "^3.0.5"
-  },
-  "peerDependencies": {
-    "vuex": ">=2.5"
   }
 }
